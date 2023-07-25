@@ -12,5 +12,8 @@
     "nuxt": "^3.0.0",
     "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.4.1"
+  },
+  "dependencies": {
+    "lucide-vue-next": "^0.263.0"
   }
 }
