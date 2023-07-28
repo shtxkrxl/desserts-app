@@ -1,5 +1,6 @@
 {
   "croissant": {
+    "name": "croissant",
     "weight": 300,
     "portion": 6,
     "cost": 350,
@@ -10,6 +11,7 @@
     "calorific": 351.9
   },
   "cheesecake": {
+    "name": "cheesecake",
     "weight": 1600,
     "portion": 20,
     "cost": 1250,
@@ -20,6 +22,7 @@
     "calorific": 372
   },
   "donut": {
+    "name": "donut",
     "weight": 660,
     "portion": 12,
     "cost": 880,
@@ -30,6 +33,7 @@
     "calorific": 404
   },
   "eclair": {
+    "name": "eclair",
     "weight": 240,
     "portion": 6,
     "cost": 380,
@@ -40,6 +44,7 @@
     "calorific": 309
   },
   "tartlet": {
+    "name": "tartlet",
     "weight": 1080,
     "portion": 9,
     "cost": 1190,
@@ -50,6 +55,7 @@
     "calorific": 283
   },
   "profiteroles": {
+    "name": "profiteroles",
     "weight": 200,
     "portion": 12,
     "cost": 420,
@@ -60,6 +66,7 @@
     "calorific": 329
   },
   "tiramisu": {
+    "name": "tiramisu",
     "weight": 220,
     "portion": 2,
     "cost": 450,
@@ -70,6 +77,7 @@
     "calorific": 281
   },
   "muffin": {
+    "name": "muffin",
     "weight": 980,
     "portion": 14,
     "cost": 990,

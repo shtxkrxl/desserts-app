@@ -10,7 +10,7 @@
       <p class="hidden font-bold text-[#7F4988] md:inline">DESSERTS</p>
     </NuxtLink>
     <div class="flex gap-[16px]">
-      <NuxtLink to="/" class="transition-all active:scale-[1.1]">
+      <NuxtLink to="/menu" class="transition-all active:scale-[1.1]">
         <MenuSquare
           color="#7F4988"
           class="h-[40px] w-[40px] md:h-[30px] md:w-[30px]"
