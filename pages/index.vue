@@ -1,50 +1,56 @@
 <template>
-  <div class="h-full w-full">
+  <div class="h-[94%] w-full">
     <Swiper class="h-full w-full" navigation loop :modules="modules"
       ><SwiperSlide>
         <div
-          class="relative h-full w-full bg-[url('/public/croissant.jpg')] bg-cover bg-center"
+          class="relative h-full w-full bg-[url('/croissant.jpg')] bg-cover bg-center"
         >
           <div
             class="absolute left-0 top-0 flex h-full w-full items-center justify-center bg-[#B1A2CD]/20"
           >
-            <p
-              class="text-outline mb-[100px] cursor-pointer text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
-            >
-              CROISSANT
-            </p>
+            <NuxtLink to="/croissant">
+              <p
+                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+              >
+                CROISSANT
+              </p>
+            </NuxtLink>
           </div>
         </div>
       </SwiperSlide>
 
       <SwiperSlide
         ><div
-          class="relative h-full w-full bg-[url('/public/cheesecake.jpg')] bg-cover bg-center"
+          class="relative h-full w-full bg-[url('/cheesecake.jpg')] bg-cover bg-center"
         >
           <div
             class="absolute left-0 top-0 flex h-full w-full items-center justify-center bg-[#B1A2CD]/20"
           >
-            <p
-              class="text-outline mb-[100px] cursor-pointer text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
-            >
-              CHEESECAKE
-            </p>
+            <NuxtLink to="/cheesecake">
+              <p
+                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+              >
+                CHEESECAKE
+              </p>
+            </NuxtLink>
           </div>
         </div></SwiperSlide
       >
 
       <SwiperSlide
         ><div
-          class="relative h-full w-full bg-[url('/public/eclair.jpg')] bg-cover bg-center"
+          class="relative h-full w-full bg-[url('/tartlet.jpg')] bg-cover bg-center"
         >
           <div
             class="absolute left-0 top-0 flex h-full w-full items-center justify-center bg-[#B1A2CD]/20"
           >
-            <p
-              class="text-outline mb-[100px] cursor-pointer text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
-            >
-              ECLAIR
-            </p>
+            <NuxtLink to="/tartlet">
+              <p
+                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+              >
+                TARTLET
+              </p>
+            </NuxtLink>
           </div>
         </div></SwiperSlide
       >
@@ -76,7 +82,7 @@ const modules = [Navigation];
 }
 .swiper-button-prev::after {
   content: " ";
-  background: url("/public/move-right.svg") no-repeat center;
+  background: url("/move-right.svg") no-repeat center;
   background-size: 32px;
   display: block;
   height: 56px;
@@ -94,7 +100,7 @@ const modules = [Navigation];
 }
 .swiper-button-next::after {
   content: " ";
-  background: url("/public/move-right.svg") no-repeat center;
+  background: url("/move-right.svg") no-repeat center;
   rotate: 180deg;
   background-size: 32px;
   display: block;
@@ -104,7 +110,7 @@ const modules = [Navigation];
 }
 
 * {
-  --swiper-navigation-top-offset: 80%;
+  --swiper-navigation-top-offset: 90%;
   --swiper-navigation-sides-offset: 30px;
   --swiper-navigation-color: transparent;
 }

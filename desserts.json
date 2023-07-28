@@ -1,0 +1,82 @@
+{
+  "croissant": {
+    "weight": 300,
+    "portion": 6,
+    "cost": 350,
+    "description": "Классический круассан отпечённый",
+    "protein": 6.8,
+    "fats": 22.8,
+    "carbohydrates": 29.9,
+    "calorific": 351.9
+  },
+  "cheesecake": {
+    "weight": 1600,
+    "portion": 20,
+    "cost": 1250,
+    "description": "Классический чизкейк New York из творожного сыра на тонком сливочно-песочном корже",
+    "protein": 5.3,
+    "fats": 28.6,
+    "carbohydrates": 27.5,
+    "calorific": 372
+  },
+  "donut": {
+    "weight": 660,
+    "portion": 12,
+    "cost": 880,
+    "description": "Пончики с розовой глазурью и посыпкой из белого шоколада",
+    "protein": 5.5,
+    "fats": 21,
+    "carbohydrates": 48,
+    "calorific": 404
+  },
+  "eclair": {
+    "weight": 240,
+    "portion": 6,
+    "cost": 380,
+    "description": "Ванильный эклер из заварного теста с начинкой из заварного крема и взбитых сливок, украшенный шоколадной глазурью",
+    "protein": 4,
+    "fats": 18.7,
+    "carbohydrates": 30.8,
+    "calorific": 309
+  },
+  "tartlet": {
+    "weight": 1080,
+    "portion": 9,
+    "cost": 1190,
+    "description": "Заварной крем, взбитые сливки и спелая малина в корзиночке из песочного теста",
+    "protein": 2.9,
+    "fats": 20.1,
+    "carbohydrates": 22.6,
+    "calorific": 283
+  },
+  "profiteroles": {
+    "weight": 200,
+    "portion": 12,
+    "cost": 420,
+    "description": "Классические профитроли со сливками в шоколаде",
+    "protein": 5.9,
+    "fats": 32,
+    "carbohydrates": 20,
+    "calorific": 329
+  },
+  "tiramisu": {
+    "weight": 220,
+    "portion": 2,
+    "cost": 450,
+    "description": "Два слоя крем-сыра маскарпоне на печенье Савоярди, пропитанном кофе. Украшено сверху какао",
+    "protein": 11.5,
+    "fats": 15.7,
+    "carbohydrates": 23.5,
+    "calorific": 281
+  },
+  "muffin": {
+    "weight": 980,
+    "portion": 14,
+    "cost": 990,
+    "description": "Маффин Шоколадный",
+    "protein": 14.4,
+    "fats": 24.5,
+    "carbohydrates": 49.9,
+    "calorific": 438
+  }
+}

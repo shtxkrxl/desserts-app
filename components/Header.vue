@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex items-center justify-between border-b-[3px] border-black bg-[#B1A2CD] px-[12px] py-[8px] md:px-[24px]"
+    class="flex h-[6%] items-center justify-between border-b-[3px] border-black bg-[#B1A2CD] px-[12px] md:px-[24px]"
   >
     <NuxtLink to="/" class="flex gap-[8px] transition-all active:scale-[1.1]">
       <Dessert

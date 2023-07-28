@@ -1,6 +1,12 @@
 <template>
-  <div class="h-screen overflow-hidden bg-[#EBECF4]">
+  <div class="h-screen bg-[#EBECF4]">
     <Header></Header>
     <NuxtPage />
   </div>
 </template>
+
+<style>
+* {
+  font-family: "Inter";
+}
+</style>
