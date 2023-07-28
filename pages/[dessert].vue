@@ -6,7 +6,7 @@
       class="relative h-[472px] overflow-hidden rounded-[10px] border-[3px] border-black lg:h-[700px] lg:w-[70%]"
     >
       <img
-        :src="`../_nuxt/public/${dessertName}.jpg`"
+        :src="`/${dessertName}.jpg`"
         class="pointer-events-none h-full w-full object-cover"
       />
       <p
