@@ -3,7 +3,7 @@
     class="mt-[24px] flex flex-col gap-[8px] bg-[#EBECF4] px-[12px] lg:flex-row lg:gap-[24px] lg:px-[24px]"
   >
     <div
-      class="relative h-[472px] overflow-hidden rounded-[10px] border-[3px] border-black lg:h-[700px] lg:w-[70%]"
+      class="relative h-[472px] overflow-hidden rounded-[10px] border-[3px] border-black lg:mb-[24px] lg:h-[700px] lg:w-[70%]"
     >
       <img
         :src="`/${dessertName}.jpg`"
