@@ -1,5 +1,8 @@
 <template>
   <div class="flex min-h-[94vh] flex-col justify-between">
+    <Head>
+      <title>{{ dessertName.toUpperCase() }}</title>
+    </Head>
     <div
       class="mt-[24px] flex flex-col gap-[8px] bg-[#EBECF4] px-[12px] lg:flex-row lg:gap-[24px] lg:px-[24px]"
     >

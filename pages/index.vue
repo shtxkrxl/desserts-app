@@ -1,5 +1,8 @@
 <template>
   <div class="h-[94%] w-full">
+    <Head>
+      <title>Desserts</title>
+    </Head>
     <Swiper class="h-full w-full" navigation loop :modules="modules"
       ><SwiperSlide>
         <div

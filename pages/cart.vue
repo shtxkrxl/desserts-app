@@ -1,5 +1,8 @@
 <template>
   <div class="flex min-h-[94vh] flex-col justify-between bg-[#EBECF4]">
+    <Head>
+      <title>Cart</title>
+    </Head>
     <p
       class="text-outline-black px-[12px] text-[48px] font-black text-[#B1A2CD] lg:px-[24px]"
     >

@@ -1,5 +1,8 @@
 <template>
   <div class="flex min-h-[94vh] flex-col justify-between">
+    <Head>
+      <title>Menu</title>
+    </Head>
     <div
       class="mt-[24px] flex flex-wrap items-center justify-center gap-x-[12px] gap-y-[24px] bg-[#EBECF4] px-[12px] pb-[36px] lg:px-[24px]"
     >
