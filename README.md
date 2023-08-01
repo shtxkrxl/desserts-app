@@ -6,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![commits][commits-shield]][commits-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -14,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shtxkrxl/desserts-app">
-    <img src="src/app/icon.svg" alt="Logo" width="80" height="80">
+    <img src="./public/favicon.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Desserts</h3>
@@ -50,17 +51,19 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This is a project site for ordering desserts, made by me for educational purposes, namely to study the vue framework.
 
 ### Built With
 
-* [![Nuxt][Nuxt.js]][Nuxt-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Tailwindcss][Tailwindcss]][Tailwindcss-url]
+- [![Nuxt][Nuxt.js]][Nuxt-url]
+- [![Vue][Vue.js]][Vue-url]
+- [![Tailwindcss][Tailwindcss]][Tailwindcss-url]
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 If you want to run the project locally, follow these instructions.
@@ -80,6 +83,7 @@ If you want to run the project locally, follow these instructions.
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -92,11 +96,13 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
+
 ## Contact
 
 Alexandr Kalmaev - sanya.kalmaev@yandex.ru
@@ -105,6 +111,7 @@ Project Link: [https://github.com/shtxkrxl/desserts-app](https://github.com/shtx
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [commits-shield]: https://img.shields.io/github/commit-activity/t/shtxkrxl/desserts-app.svg?style=for-the-badge
 [commits-url]: https://github.com/shtxkrxl/desserts-app/graphs/commit-activity
 [issues-shield]: https://img.shields.io/github/issues/shtxkrxl/desserts-app.svg?style=for-the-badge
