@@ -1876,9 +1876,9 @@ deep-equal@~1.0.1:
   integrity sha512-bHtC0iYvWhyaTzvV3CZgPeZQqCOBGyGsVV7v4eevpdkLHfiSrXUdBG+qAuSz4RI70sszvjQ1QSZ98An1yNwpSw==
 
 deepmerge@^4.2.2:
-  version "4.2.2"
-  resolved "https://registry.npmjs.org/deepmerge/-/deepmerge-4.2.2.tgz"
-  integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
+  version "4.3.1"
+  resolved "https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.1.tgz"
+  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 defaults@^1.0.3:
   version "1.0.4"
@@ -3540,7 +3540,7 @@ node-fetch-native@^0.1.8:
   resolved "https://registry.npmjs.org/node-fetch-native/-/node-fetch-native-0.1.8.tgz"
   integrity sha512-ZNaury9r0NxaT2oL65GvdGDy+5PlSaHTovT6JV5tOW07k1TQmgC0olZETa4C9KZg0+6zBr99ctTYa3Utqj9P/Q==
 
-node-fetch-native@^1.0.1, node-fetch-native@^1.0.2:
+node-fetch-native@^1.0.1, node-fetch-native@^1.0.2, node-fetch-native@^1.2.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/node-fetch-native/-/node-fetch-native-1.2.0.tgz"
   integrity sha512-5IAMBTl9p6PaAjYCnMv5FmqIF6GcZnawAVnzaCG0rX2aYZJ4CxEkZNtVPuTRug7fL7wyM5BQYTlAzcyMPi6oTQ==
@@ -3690,13 +3690,13 @@ object-hash@^3.0.0:
   integrity sha512-RSn9F68PjH9HqtltsSnqYC1XXoWe9Bju5+213R98cNGttag9q9yAOTzdbsqvIa7aNm5WffBZFpWYr2aWrklWAw==
 
 ofetch@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/ofetch/-/ofetch-1.0.0.tgz"
-  integrity sha512-d40aof8czZFSQKJa4+F7Ch3UC5D631cK1TTUoK+iNEut9NoiCL+u0vykl/puYVUS2df4tIQl5upQcolIcEzQjQ==
+  version "1.1.1"
+  resolved "https://registry.npmjs.org/ofetch/-/ofetch-1.1.1.tgz"
+  integrity sha512-SSMoktrp9SNLi20BWfB/BnnKcL0RDigXThD/mZBeQxkIRv1xrd9183MtLdsqRYLYSqW0eTr5t8w8MqjNhvoOQQ==
   dependencies:
-    destr "^1.2.1"
-    node-fetch-native "^1.0.1"
-    ufo "^1.0.0"
+    destr "^2.0.0"
+    node-fetch-native "^1.2.0"
+    ufo "^1.1.2"
 
 ohash@^1.0.0, ohash@^1.1.2:
   version "1.1.2"

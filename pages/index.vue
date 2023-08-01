@@ -10,7 +10,7 @@
           >
             <NuxtLink to="/croissant">
               <p
-                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[5px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
               >
                 CROISSANT
               </p>
@@ -28,7 +28,7 @@
           >
             <NuxtLink to="/cheesecake">
               <p
-                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+                class="text-outline mb-[100px] cursor-pointer select-none text-[43px] font-black tracking-[4px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
               >
                 CHEESECAKE
               </p>
@@ -46,7 +46,7 @@
           >
             <NuxtLink to="/tartlet">
               <p
-                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[6.80px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
+                class="text-outline mb-[100px] cursor-pointer select-none text-[50px] font-black tracking-[5px] text-[#B1A2CD]/90 transition-all hover:scale-[1.1] lg:text-[70px]"
               >
                 TARTLET
               </p>

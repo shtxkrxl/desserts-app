@@ -7,6 +7,6 @@
 
 <style>
 * {
-  font-family: "Inter";
+  font-family: "Arial";
 }
 </style>
