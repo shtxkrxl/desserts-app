@@ -92,7 +92,7 @@
 <!-- CONTACT -->
 ## Контакты
 
-Александр Кальмаев - sanya.kalmaev@yandex.ru
+Александр Кальмаев - <a href="mailto:shtxkrxl@ya.ru" target="_blank">shtxkrxl@ya.ru</a>
 
 Ссылка на проект: [https://github.com/shtxkrxl/desserts-app](https://github.com/shtxkrxl/desserts-app)
 
